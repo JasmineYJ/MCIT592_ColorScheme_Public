@@ -1,0 +1,473 @@
+﻿Indian Red,176,23,31
+Crimson,220,20,60
+Lightpink,255,182,193
+Lightpink 1,255,174,185
+Lightpink 2,238,162,173
+Lightpink 3,205,140,149
+Lightpink 4,139,95,101
+Pink,255,192,203
+Pink 1,255,181,197
+Pink 2,238,169,184
+Pink 3,205,145,158
+Pink 4,139,99,108
+Palevioletred,219,112,147
+Palevioletred 1,255,130,171
+Palevioletred 2,238,121,159
+Palevioletred 3,205,104,137
+Palevioletred 4,139,71,93
+Lavenderblush,255,240,245
+Lavenderblush 2,238,224,229
+Lavenderblush 3,205,193,197
+Lavenderblush 4,139,131,134
+Violetred 1,255,62,150
+Violetred 2,238,58,140
+Violetred 3,205,50,120
+Violetred 4,139,34,82
+Hotpink,255,105,180
+Hotpink 1,255,110,180
+Hotpink 2,238,106,167
+Hotpink 3,205,96,144
+Hotpink 4,139,58,98
+Raspberry,135,38,87
+Deeppink,255,20,147
+Deeppink 2,238,18,137
+Deeppink 3,205,16,118
+Deeppink 4,139,10,80
+Maroon 1,255,52,179
+Maroon 2,238,48,167
+Maroon 3,205,41,144
+Maroon 4,139,28,98
+Mediumvioletred,199,21,133
+Violetred,208,32,144
+Orchid,218,112,214
+Orchid 1,255,131,250
+Orchid 2,238,122,233
+Orchid 3,205,105,201
+Orchid 4,139,71,137
+Thistle,216,191,216
+Thistle 1,255,225,255
+Thistle 2,238,210,238
+Thistle 3,205,181,205
+Thistle 4,139,123,139
+Plum 1,255,187,255
+Plum 2,238,174,238
+Plum 3,205,150,205
+Plum 4,139,102,139
+Plum,221,160,221
+Violet,238,130,238
+Fuchsia,255,0,255
+Magenta 2,238,0,238
+Magenta 3,205,0,205
+Darkmagenta,139,0,139
+Purple 5,128,0,128
+Mediumorchid,186,85,211
+Mediumorchid 1,224,102,255
+Mediumorchid 2,209,95,238
+Mediumorchid 3,180,82,205
+Mediumorchid 4,122,55,139
+Darkviolet,148,0,211
+Darkorchid,153,50,204
+Darkorchid 1,191,62,255
+Darkorchid 2,178,58,238
+Darkorchid 3,154,50,205
+Darkorchid 4,104,34,139
+Indigo,75,0,130
+Blueviolet,138,43,226
+Purple 1,155,48,255
+Purple 2,145,44,238
+Purple 3,125,38,205
+Purple 4,85,26,139
+Mediumpurple,147,112,219
+Mediumpurple 1,171,130,255
+Mediumpurple 2,159,121,238
+Mediumpurple 3,137,104,205
+Mediumpurple 4,93,71,139
+Darkslateblue,72,61,139
+Lightslateblue,132,112,255
+Mediumslateblue,123,104,238
+Slateblue,106,90,205
+Slateblue 1,131,111,255
+Slateblue 2,122,103,238
+Slateblue 3,105,89,205
+Slateblue 4,71,60,139
+Ghostwhite,248,248,255
+Lavender,230,230,250
+Blue 3,0,0,255
+Blue 2,0,0,238
+Mediumblue,0,0,205
+Darkblue,0,0,139
+Navy,0,0,128
+Midnightblue,25,25,112
+Cobalt,61,89,171
+Royalblue,65,105,225
+Royalblue 1,72,118,255
+Royalblue 2,67,110,238
+Royalblue 3,58,95,205
+Royalblue 4,39,64,139
+Cornflowerblue,100,149,237
+Lightsteelblue,176,196,222
+Lightsteelblue 1,202,225,255
+Lightsteelblue 2,188,210,238
+Lightsteelblue 3,162,181,205
+Lightsteelblue 4,110,123,139
+Lightslategray,119,136,153
+Slategray,112,128,144
+Slategray 1,198,226,255
+Slategray 2,185,211,238
+Slategray 3,159,182,205
+Slategray 4,108,123,139
+Dodgerblue,30,144,255
+Dodgerblue 2,28,134,238
+Dodgerblue 3,24,116,205
+Dodgerblue 4,16,78,139
+Aliceblue,240,248,255
+Steelblue,70,130,180
+Steelblue 1,99,184,255
+Steelblue 2,92,172,238
+Steelblue 3,79,148,205
+Steelblue 4,54,100,139
+Lightskyblue,135,206,250
+Lightskyblue 1,176,226,255
+Lightskyblue 2,164,211,238
+Lightskyblue 3,141,182,205
+Lightskyblue 4,96,123,139
+Skyblue 1,135,206,255
+Skyblue 2,126,192,238
+Skyblue 3,108,166,205
+Skyblue 4,74,112,139
+Skyblue,135,206,235
+Deepskyblue 1 (Deepskyblue),0,191,255
+Deepskyblue 2,0,178,238
+Deepskyblue 3,0,154,205
+Deepskyblue 4,0,104,139
+Peacock,51,161,201
+Lightblue,173,216,230
+Lightblue 1,191,239,255
+Lightblue 2,178,223,238
+Lightblue 3,154,192,205
+Lightblue 4,104,131,139
+Powderblue,176,224,230
+Cadetblue 1,152,245,255
+Cadetblue 2,142,229,238
+Cadetblue 3,122,197,205
+Cadetblue 4,83,134,139
+Turquoise 1,0,245,255
+Turquoise 2,0,229,238
+Turquoise 3,0,197,205
+Turquoise 4,0,134,139
+Cadetblue,95,158,160
+Darkturquoise,0,206,209
+Azure 1,240,255,255
+Azure 2,224,238,238
+Azure 3,193,205,205
+Azure 4,131,139,139
+Lightcyan 1,224,255,255
+Lightcyan 2,209,238,238
+Lightcyan 3,180,205,205
+Lightcyan 4,122,139,139
+Paleturquoise 1,187,255,255
+Paleturquoise 2,174,238,238
+Paleturquoise 3,150,205,205
+Paleturquoise 4,102,139,139
+Darkslategray,47,79,79
+Darkslategray 1,151,255,255
+Darkslategray 2,141,238,238
+Darkslategray 3,121,205,205
+Darkslategray 4,82,139,139
+Cyan / Aqua*,0,255,255
+Cyan 2,0,238,238
+Cyan 3,0,205,205
+Darkcyan,0,139,139
+Teal,0,128,128
+Mediumturquoise,72,209,204
+Lightseagreen,32,178,170
+Manganeseblue,3,168,158
+Turquoise,64,224,208
+Coldgrey,128,138,135
+Turquoiseblue,0,199,140
+Aquamarine 1,127,255,212
+Aquamarine 2,118,238,198
+Mediumaquamarine,102,205,170
+Aquamarine 4,69,139,116
+Mediumspringgreen,0,250,154
+Mintcream,245,255,250
+Springgreen,0,255,127
+Springgreen 1,0,238,118
+Springgreen 2,0,205,102
+Springgreen 3,0,139,69
+Mediumseagreen,60,179,113
+Seagreen 1,84,255,159
+Seagreen 2,78,238,148
+Seagreen 3,67,205,128
+Seagreen 4,46,139,87
+Emeraldgreen,0,201,87
+Mint,189,252,201
+Cobaltgreen,61,145,64
+Honeydew 1,240,255,240
+Honeydew 2,224,238,224
+Honeydew 3,193,205,193
+Honeydew 4,131,139,131
+Darkseagreen,143,188,143
+Darkseagreen 1,193,255,193
+Darkseagreen 2,180,238,180
+Darkseagreen 3,155,205,155
+Darkseagreen 4,105,139,105
+Palegreen,152,251,152
+Palegreen 1,154,255,154
+Lightgreen,144,238,144
+Palegreen 3,124,205,124
+Palegreen 4,84,139,84
+Limegreen,50,205,50
+Forestgreen,34,139,34
+Lime,0,255,0
+Green 2,0,238,0
+Green 3,0,205,0
+Green 4,0,139,0
+Green 1,0,128,0
+Darkgreen,0,100,0
+Sapgreen,48,128,20
+Lawngreen,124,252,0
+Chartreuse 1,127,255,0
+Chartreuse 2,118,238,0
+Chartreuse 3,102,205,0
+Chartreuse 4,69,139,0
+Greenyellow,173,255,47
+Darkolivegreen 1,202,255,112
+Darkolivegreen 2,188,238,104
+Darkolivegreen 3,162,205,90
+Darkolivegreen 4,110,139,61
+Darkolivegreen,85,107,47
+Olivedrab,107,142,35
+Olivedrab 1,192,255,62
+Olivedrab 2,179,238,58
+Yellowgreen,154,205,50
+Olivedrab 4,105,139,34
+Ivory 1,255,255,240
+Ivory 2,238,238,224
+Ivory 3,205,205,193
+Ivory 4,139,139,131
+Beige,245,245,220
+Lightyellow 1,255,255,224
+Lightyellow 2,238,238,209
+Lightyellow 3,205,205,180
+Lightyellow 4,139,139,122
+Lightgoldenrodyellow,250,250,210
+Yellow 1,255,255,0
+Yellow 2,238,238,0
+Yellow 3,205,205,0
+Yellow 4,139,139,0
+Warmgrey,128,128,105
+Olive 1,128,128,0
+Darkkhaki,189,183,107
+Khaki 1,255,246,143
+Khaki 2,238,230,133
+Khaki 3,205,198,115
+Khaki 4,139,134,78
+Khaki,240,230,140
+Palegoldenrod,238,232,170
+Lemonchiffon 1,255,250,205
+Lemonchiffon 2,238,233,191
+Lemonchiffon 3,205,201,165
+Lemonchiffon 4,139,137,112
+Lightgoldenrod 1,255,236,139
+Lightgoldenrod 2,238,220,130
+Lightgoldenrod 3,205,190,112
+Lightgoldenrod 4,139,129,76
+Banana,227,207,87
+Gold 1,255,215,0
+Gold 2,238,201,0
+Gold 3,205,173,0
+Gold 4,139,117,0
+Cornsilk 1,255,248,220
+Cornsilk 2,238,232,205
+Cornsilk 3,205,200,177
+Cornsilk 4,139,136,120
+Goldenrod,218,165,32
+Goldenrod 1,255,193,37
+Goldenrod 2,238,180,34
+Goldenrod 3,205,155,29
+Goldenrod 4,139,105,20
+Darkgoldenrod,184,134,11
+Darkgoldenrod 1,255,185,15
+Darkgoldenrod 2,238,173,14
+Darkgoldenrod 3,205,149,12
+Darkgoldenrod 4,139,101,8
+Orange 1,255,165,0
+Orange 2,238,154,0
+Orange 3,205,133,0
+Orange 4,139,90,0
+Floralwhite,255,250,240
+Oldlace,253,245,230
+Wheat,245,222,179
+Wheat 1,255,231,186
+Wheat 2,238,216,174
+Wheat 3,205,186,150
+Wheat 4,139,126,102
+Moccasin,255,228,181
+Papayawhip,255,239,213
+Blanchedalmond,255,235,205
+Navajowhite 1,255,222,173
+Navajowhite 2,238,207,161
+Navajowhite 3,205,179,139
+Navajowhite 4,139,121,94
+Eggshell,252,230,201
+Tan,210,180,140
+Brick,156,102,31
+Cadmiumyellow,255,153,18
+Antiquewhite,250,235,215
+Antiquewhite 1,255,239,219
+Antiquewhite 2,238,223,204
+Antiquewhite 3,205,192,176
+Antiquewhite 4,139,131,120
+Burlywood,222,184,135
+Burlywood 1,255,211,155
+Burlywood 2,238,197,145
+Burlywood 3,205,170,125
+Burlywood 4,139,115,85
+Bisque 1,255,228,196
+Bisque 2,238,213,183
+Bisque 3,205,183,158
+Bisque 4,139,125,107
+Melon,227,168,105
+Carrot,237,145,33
+Darkorange,255,140,0
+Darkorange 1,255,127,0
+Darkorange 2,238,118,0
+Darkorange 3,205,102,0
+Darkorange 4,139,69,0
+Orange,255,128,0
+Tan 1,255,165,79
+Tan 2,238,154,73
+Peru,205,133,63
+Tan 4,139,90,43
+Linen,250,240,230
+Peachpuff 1,255,218,185
+Peachpuff 2,238,203,173
+Peachpuff 3,205,175,149
+Peachpuff 4,139,119,101
+Seashell 1,255,245,238
+Seashell 2,238,229,222
+Seashell 3,205,197,191
+Seashell 4,139,134,130
+Sandybrown,244,164,96
+Rawsienna,199,97,20
+Chocolate,210,105,30
+Chocolate 1,255,127,36
+Chocolate 2,238,118,33
+Chocolate 3,205,102,29
+Saddlebrown,139,69,19
+Ivoryblack,41,36,33
+Flesh,255,125,64
+Cadmiumorange,255,97,3
+Burntsienna,138,54,15
+Sienna,160,82,45
+Sienna 1,255,130,71
+Sienna 2,238,121,66
+Sienna 3,205,104,57
+Sienna 4,139,71,38
+Lightsalmon 1,255,160,122
+Lightsalmon 2,238,149,114
+Lightsalmon 3,205,129,98
+Lightsalmon 4,139,87,66
+Coral,255,127,80
+Orangered 1,255,69,0
+Orangered 2,238,64,0
+Orangered 3,205,55,0
+Orangered 4,139,37,0
+Sepia,94,38,18
+Darksalmon,233,150,122
+Salmon 1,255,140,105
+Salmon 2,238,130,98
+Salmon 3,205,112,84
+Salmon 4,139,76,57
+Coral 1,255,114,86
+Coral 2,238,106,80
+Coral 3,205,91,69
+Coral 4,139,62,47
+Burntumber,138,51,36
+Tomato 1,255,99,71
+Tomato 2,238,92,66
+Tomato 3,205,79,57
+Tomato 4,139,54,38
+Salmon,250,128,114
+Mistyrose 1,255,228,225
+Mistyrose 2,238,213,210
+Mistyrose 3,205,183,181
+Mistyrose 4,139,125,123
+Snow 1,255,250,250
+Snow 2,238,233,233
+Snow 3,205,201,201
+Snow 4,139,137,137
+Rosybrown,188,143,143
+Rosybrown 1,255,193,193
+Rosybrown 2,238,180,180
+Rosybrown 3,205,155,155
+Rosybrown 4,139,105,105
+Lightcoral,240,128,128
+Indianred,205,92,92
+Indianred 1,255,106,106
+Indianred 2,238,99,99
+Indianred 4,139,58,58
+Indianred 3,205,85,85
+Brown,165,42,42
+Brown 1,255,64,64
+Brown 2,238,59,59
+Brown 3,205,51,51
+Brown 4,139,35,35
+Firebrick,178,34,34
+Firebrick 1,255,48,48
+Firebrick 2,238,44,44
+Firebrick 3,205,38,38
+Firebrick 4,139,26,26
+Red 1,255,0,0
+Red 2,238,0,0
+Red 3,205,0,0
+Darkred,139,0,0
+Maroon 5,128,0,0
+Sgi Beet,142,56,142
+Sgi Slateblue,113,113,198
+Sgi Lightblue,125,158,192
+Sgi Teal,56,142,142
+Sgi Chartreuse,113,198,113
+Sgi Olivedrab,142,142,56
+Sgi Brightgray,197,193,170
+Sgi Salmon,198,113,113
+Sgi Darkgray,85,85,85
+Sgi Gray 16,40,40,40
+Sgi Gray 36,91,91,91
+Sgi Gray 56,142,142,142
+Sgi Lightgray,170,170,170
+Sgi Gray 76,193,193,193
+Sgi Gray 96,244,244,244
+White 1,255,255,255
+White Smoke 2,245,245,245
+Gainsboro,220,220,220
+Lightgrey,211,211,211
+Silver,192,192,192
+Darkgray,169,169,169
+Gray 100,128,128,128
+Dimgray 1,105,105,105
+Black,0,0,0
+Gray 99,252,252,252
+White Smoke 1,245,245,245
+Gray 95,242,242,242
+Gray 90,229,229,229
+Gray 85,217,217,217
+Gray 80,204,204,204
+Gray 75,191,191,191
+Gray 70,179,179,179
+Gray 65,166,166,166
+Gray 60,153,153,153
+Gray 55,140,140,140
+Gray 50,127,127,127
+Gray 45,115,115,115
+Dimgray 2,105,105,105
+Gray 40,102,102,102
+Gray 35,89,89,89
+Gray 30,77,77,77
+Gray 25,64,64,64
+Gray 20,51,51,51
+Gray 15,38,38,38
+Gray 10,26,26,26
+Gray 5,13,13,13
+Gray 1,3,3,3
